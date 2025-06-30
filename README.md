@@ -11,3 +11,5 @@ This project is best developed using IntelliJ IDEA for an optimal experience.
 ## Java Version
 
 Java: `OpenJDK 21.0.7`
+
+[//]: # (https://gitlab.com/public-starter-projects1/05-java-core/01-java-starter/-/tree/master?ref_type=heads)
