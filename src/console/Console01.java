@@ -29,3 +29,13 @@ public class Console01 {
         System.out.printf("có %.0f người đăng ký \n", 40000.555);
     }
 }
+
+/*
+    Hello World 1Hello World 2
+    Hello World 1
+    Hello World 2
+    Minh Lam IT
+    với LamLDM
+    có 40000 người đăng ký
+    có 40001 người đăng ký
+* */
