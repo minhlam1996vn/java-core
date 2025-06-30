@@ -17,4 +17,5 @@ Java: `OpenJDK 21.0.7`
 [//]: # (
 1. variables/Variable01
 2. console/Console01
+3. console/Console02
 )
