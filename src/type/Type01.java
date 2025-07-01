@@ -1,9 +1,6 @@
 package type;
 
 //    https://www.w3schools.com/java/java_data_types.asp
-//    https://www.w3schools.com/java/java_operators.asp
-//    https://www.w3schools.com/java/java_conditions.asp
-//    https://www.w3schools.com/java/java_switch.asp
 
 public class Type01 {
     public static void main(String[] args) {
@@ -16,5 +13,14 @@ public class Type01 {
         char myLetter = 'D';
         boolean myBool = true;
         String myText = "Hello";
+
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(myNum);
+        System.out.println(myFloatNum);
+        System.out.println(myLetter);
+        System.out.println(myBool);
+        System.out.println(myText);
     }
 }
