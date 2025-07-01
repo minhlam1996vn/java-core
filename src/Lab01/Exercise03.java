@@ -5,21 +5,22 @@ package Lab01;
 
 import java.util.Scanner;
 
-public class Lession03 {
+public class Exercise03 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the cube edge: ");
-        int edge = sc.nextInt();
+        Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Volume: " + Math.pow(edge, 3));
-        sc.close();
+        System.out.println("Enter the cube edge: ");
+        int edge = scanner.nextInt();
+
+        double volume = Math.pow(edge, 3);
+        System.out.println("Volume: " + volume);
+
+        scanner.close();
     }
 }
 
 /*
-    Your name is:
-    LamLDM
-    Average score:
-    9.5
-    LamLDM's average score: 9.5
+    Enter the cube edge:
+    3
+    Volume: 27.0
 * */
