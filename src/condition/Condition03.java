@@ -36,5 +36,15 @@ public class Condition03 {
 }
 
 /*
-
+    >> SELECT FUNCTION <<
+    ++ ----------------------------------------- ++
+    | 1. Solve linear equation           |
+    | 2. Solve quadratic equation        |
+    | 3. Calculate electricity bill      |
+    | 4. Exit                            |
+    ++ ------------------ ++
+    Your choice is: 1
+    You have selected linear equation solving
+    2
+    2
  * */
