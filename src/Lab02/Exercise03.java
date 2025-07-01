@@ -25,7 +25,7 @@ public class Exercise03 {
         } else {
             money = 100 * 1000 + (a - 100) * 1500;
         }
-        System.out.println("Số điện điện = " + money);
+        System.out.println("Số tiền điện = " + money);
 
         scanner.close();
     }
