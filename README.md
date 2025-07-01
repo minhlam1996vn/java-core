@@ -21,3 +21,9 @@ Java: `OpenJDK 21.0.7`
 [//]: # (match/match01)
 [//]: # (match/match02)
 [//]: # (Lab01)
+
+[//]: # (https://www.w3schools.com/java/java_data_types.asp)
+[//]: # (https://www.w3schools.com/java/java_operators.asp)
+[//]: # (https://www.w3schools.com/java/java_conditions.asp)
+[//]: # (https://www.w3schools.com/java/java_switch.asp)
+[//]: # (type/Type01)
