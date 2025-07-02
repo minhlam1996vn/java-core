@@ -10,3 +10,9 @@ public class UseStudentConstructor {
         System.out.println("Check obj 2: " + student2.name + " and age: " + student2.age);
     }
 }
+
+/*
+    Use student constructor
+    Check obj 1: null and age: 0
+    Check obj 2: Eric and age: 26
+* */
