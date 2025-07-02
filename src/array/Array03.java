@@ -1,5 +1,7 @@
 package array;
 
+//    https://www.w3schools.com/java/java_arrays_loop.asp
+
 import java.util.Arrays;
 
 public class Array03 {
