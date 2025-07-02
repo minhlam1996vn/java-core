@@ -38,3 +38,4 @@ Java: `OpenJDK 21.0.7`
 [//]: # (Lab03)
 
 [//]: # (oop/Studient - oop/UseStudient)
+[//]: # (oop/CheckSum)
