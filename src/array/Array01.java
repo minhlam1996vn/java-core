@@ -22,3 +22,13 @@ public class Array01 {
         System.out.println("run hear array: first element = " + a[1]);
     }
 }
+
+/*
+    run hear array white length: 3
+    run hear array: [Arsenal, Man city, Liverpool]
+    run hear array: first element = Arsenal
+    ================
+    run hear array white length: 5
+    run hear array: [ABC, null, null, null, null]
+    run hear array: first element = null
+* */

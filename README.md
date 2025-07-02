@@ -34,3 +34,5 @@ Java: `OpenJDK 21.0.7`
 [//]: # (loop/Loop03)
 [//]: # (array/Array01)
 [//]: # (array/Array02)
+[//]: # (array/Array03)
+[//]: # (Lab03)
