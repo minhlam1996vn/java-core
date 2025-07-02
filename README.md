@@ -42,4 +42,4 @@ Java: `OpenJDK 21.0.7`
 [//]: # (oop/StudentConstructor)
 [//]: # (oop/UseStudentConstructor)
 [//]: # (oop/accessModifier/*)
-
+[//]: # (oop/encapsulation/*)
