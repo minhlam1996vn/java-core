@@ -12,3 +12,9 @@ public class UseStudent {
         System.out.println("Age: " + student.age);
     }
 }
+
+/*
+    Use Student
+    Name: Eric
+    Age: 25
+* */
