@@ -39,3 +39,7 @@ Java: `OpenJDK 21.0.7`
 
 [//]: # (oop/Studient - oop/UseStudient)
 [//]: # (oop/CheckSum)
+[//]: # (oop/StudentConstructor)
+[//]: # (oop/UseStudentConstructor)
+[//]: # (oop/accessModifier/*)
+
