@@ -46,3 +46,15 @@ public class Exercise04 {
         scanner.close();
     }
 }
+
+/*
+    >> LỰA CHỌN TÍNH NĂNG <<
+    ++ ----------------------------------------- ++
+    | 1. Giải phương trình bậc nhất              |
+    | 2. Giải phương trình bậc hai               |
+    | 3. Tính số tiền điện                       |
+    | 4. Kết thúc                                |
+    ++ ------------------ ++
+    Lựa chọn của bạn: 1
+    >> LỰA CHỌN TÍNH NĂNG 1 <<
+* */

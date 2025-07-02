@@ -16,7 +16,7 @@ public class Exercise03 {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Chương trình tính tiền điện");
-        System.out.print("Nhập vào skố điện: ");
+        System.out.print("Nhập vào số điện: ");
         int a = scanner.nextInt();
         int money;
 
@@ -30,3 +30,9 @@ public class Exercise03 {
         scanner.close();
     }
 }
+
+/*
+    Chương trình tính tiền điện
+    Nhập vào số điện: 10
+    Số tiền điện = 10000
+* */
