@@ -43,3 +43,4 @@ Java: `OpenJDK 21.0.7`
 [//]: # (oop/UseStudentConstructor)
 [//]: # (oop/accessModifier/*)
 [//]: # (oop/encapsulation/*)
+[//]: # (Lab04)
