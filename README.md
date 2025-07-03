@@ -44,3 +44,5 @@ Java: `OpenJDK 21.0.7`
 [//]: # (oop/accessModifier/*)
 [//]: # (oop/encapsulation/*)
 [//]: # (Lab04)
+
+[//]: # (arrayList/ArrayList01)
