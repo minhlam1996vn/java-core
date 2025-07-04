@@ -1,4 +1,4 @@
-package stringExpression;
+package string;
 
 //    Ứng dụng quản lý sinh viên
 //    - Tạo class Student với thuộc tính name, id

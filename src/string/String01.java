@@ -1,4 +1,4 @@
-package stringExpression;
+package string;
 
 //    https://www.w3schools.com/java/java_strings_specchars.asp
 

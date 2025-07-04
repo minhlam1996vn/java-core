@@ -48,5 +48,5 @@ Java: `OpenJDK 21.0.7`
 [//]: # (arrayList/ArrayList01)
 [//]: # (Lab05)
 
-[//]: # (stringExpression/String01)
-[//]: # (stringExpression/String02)
+[//]: # (string/String01)
+[//]: # (string/String02)

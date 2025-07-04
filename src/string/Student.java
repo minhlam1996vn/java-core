@@ -1,4 +1,4 @@
-package stringExpression;
+package string;
 
 public class Student {
     private String name;
