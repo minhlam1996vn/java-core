@@ -46,3 +46,4 @@ Java: `OpenJDK 21.0.7`
 [//]: # (Lab04)
 
 [//]: # (arrayList/ArrayList01)
+[//]: # (Lab05)
