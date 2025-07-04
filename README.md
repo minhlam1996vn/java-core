@@ -47,3 +47,5 @@ Java: `OpenJDK 21.0.7`
 
 [//]: # (arrayList/ArrayList01)
 [//]: # (Lab05)
+
+[//]: # (stringExpression/String01)

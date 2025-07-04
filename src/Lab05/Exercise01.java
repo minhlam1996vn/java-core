@@ -30,6 +30,8 @@ public class Exercise01 {
         }
 
         System.out.println("sum array= " + sum);
+
+        scanner.close();
     }
 }
 
