@@ -50,3 +50,6 @@ Java: `OpenJDK 21.0.7`
 
 [//]: # (string/String01)
 [//]: # (string/String02)
+[//]: # (string/RegEx01)
+[//]: # (string/RegEx02)
+[//]: # (Lab06)
