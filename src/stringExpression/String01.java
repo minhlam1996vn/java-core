@@ -2,6 +2,8 @@ package stringExpression;
 
 //    https://www.w3schools.com/java/java_strings_specchars.asp
 
+//    Nhập username và password từ bàn phím. Nếu username = "admin" và password > 6 ký tự thì hợp lệ
+
 import java.util.Scanner;
 
 public class String01 {

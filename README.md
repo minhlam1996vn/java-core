@@ -49,3 +49,4 @@ Java: `OpenJDK 21.0.7`
 [//]: # (Lab05)
 
 [//]: # (stringExpression/String01)
+[//]: # (stringExpression/String02)
