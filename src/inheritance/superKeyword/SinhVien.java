@@ -1,10 +1,15 @@
 package inheritance.superKeyword;
 
-public class SinhVien {
+//    https://www.w3schools.com/java/java_inheritance.asp
+//    https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html
+
+public abstract class SinhVien {
     protected String id;
     protected String name;
     protected double price;
     protected double tax;
+
+    abstract boolean tinhDiem();
 
     public SinhVien(String id, String name, double price, double tax) {
         this.id = id;

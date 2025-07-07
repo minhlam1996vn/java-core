@@ -56,3 +56,4 @@ Java: `OpenJDK 21.0.7`
 
 [//]: # (inheritance/Car)
 [//]: # (inheritance/supserKeyword/*)
+[//]: # (inheritance/abstract/*)

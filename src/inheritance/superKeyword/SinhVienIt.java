@@ -25,4 +25,11 @@ public class SinhVienIt extends SinhVien {
     public void info() {
         System.out.println("Sinh Vien IT: info");
     }
+
+    @Override
+    boolean tinhDiem() {
+        System.out.println("Sinh vien co khi tinh diem");
+
+        return false;
+    }
 }

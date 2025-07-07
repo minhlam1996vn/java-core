@@ -9,6 +9,7 @@ public class SinhVienMain {
 
         SinhVienCoKhi st2 = new SinhVienCoKhi("machine", "456", "LamCK", 10, 0.1);
         System.out.println("st2 check = " + st2.name);
+        System.out.println(st1.tinhDiem());
     }
 }
 
@@ -18,4 +19,6 @@ public class SinhVienMain {
     Sinh Vien: info
     st1 check = 123
     st2 check = LamCK
+    Sinh vien co khi tinh diem
+    false
 * */
