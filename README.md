@@ -53,3 +53,5 @@ Java: `OpenJDK 21.0.7`
 [//]: # (string/RegEx01)
 [//]: # (string/RegEx02)
 [//]: # (Lab06)
+
+[//]: # (inheritance/Car)
