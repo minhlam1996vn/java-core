@@ -64,3 +64,4 @@ Java: `OpenJDK 21.0.7`
 [//]: # (Lab08)
 
 [//]: # (exception/Exception01)
+[//]: # (exception/Exception02)

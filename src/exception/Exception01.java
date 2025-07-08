@@ -1,5 +1,8 @@
 package exception;
 
+//    https://docs.oracle.com/javase/tutorial/essential/exceptions/definition.html
+//    https://www.geeksforgeeks.org/java/exceptions-in-java/
+
 import java.util.Scanner;
 
 public class Exception01 {
