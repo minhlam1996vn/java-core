@@ -2,6 +2,9 @@ package exception;
 
 //  https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html
 
+//  https://docs.oracle.com/javase/tutorial/essential/exceptions/declaring.html
+//  https://stackoverflow.com/questions/18491020/what-does-throws-do-and-how-is-it-helpful
+
 import java.util.Scanner;
 
 public class Exception02 {
