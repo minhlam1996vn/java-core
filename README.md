@@ -61,3 +61,4 @@ Java: `OpenJDK 21.0.7`
 
 [//]: # (javaInterface/*)
 [//]: # (javaInterface/defaultMethod/DefaultMethodMain)
+[//]: # (Lab08)
