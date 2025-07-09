@@ -68,3 +68,5 @@ Java: `OpenJDK 21.0.7`
 [//]: # (Lab09)
 
 [//]: # (stream/ByteStream01)
+
+[//]: # (thread/ThreadObjects)
