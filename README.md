@@ -66,3 +66,5 @@ Java: `OpenJDK 21.0.7`
 [//]: # (exception/Exception01)
 [//]: # (exception/Exception02)
 [//]: # (Lab09)
+
+[//]: # (stream/ByteStream01)
